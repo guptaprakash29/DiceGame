@@ -21,3 +21,5 @@ if (randomNumber1 > randomNumber2) {
 }else{
     heading.innerHTML = "Draw"
 }
+
+alert("Prakash gupta is a Developer of This repo")
